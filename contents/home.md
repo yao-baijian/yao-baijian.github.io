@@ -1,3 +1,4 @@
+I am Research Assistant at Reconfiguration Computing Systems Lab (https://eeweiz.home.ece.ust.hk/)
 He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
 
 #### GitHub
@@ -5,12 +6,12 @@ He is currently pursuing a Master's Degree in computer science, at School of Com
 
 
 #### Email
-sli[at]cumt.edu.cn
+eebyao[at]ust.hk
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+Master, 2022.09 - 2023.06, Integrated Circuit Design, Hong Kong University of Science and Technology
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2018.09 - 2022.06, Electronic Information Engineering, Chinese University of Hong Kong
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+EDA algorithm
