@@ -109,4 +109,26 @@ section .main-body{
     }
 }
 
+/* Featured announcement highlight */
+.main-body blockquote {
+    background: linear-gradient(135deg, #fff3cd, #ffecb3);
+    border-left: 5px solid #ffc107;
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin: 0 0 1.5rem 0;
+    font-size: 1.1rem;
+    font-weight: 400;
+    box-shadow: 0 2px 8px rgba(255, 193, 7, 0.2);
+}
+
+.main-body blockquote a {
+    color: #d63384;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.main-body blockquote a:hover {
+    text-decoration: underline;
+}
+
 

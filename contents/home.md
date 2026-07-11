@@ -1,17 +1,27 @@
-I am Research Assistant at Reconfiguration Computing Systems Lab (https://eeweiz.home.ece.ust.hk/)
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+> **🎉 New Paper in *Nature Communications*:** [Precision meets speed through an FPGA-based natively sparse Ising machine for combinatorial optimization](https://www.nature.com/articles/s41467-026-75119-0) (Open Access)
+
+I am a PhD graduate from the [Reconfiguration Computing Systems Lab](https://eeweiz.home.ece.ust.hk/) at the Hong Kong University of Science and Technology (HKUST), where I completed my PhD in 2025. My research focuses on combinatorial optimization, FPGA acceleration, and electronic design automation (EDA).
 
 #### GitHub
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
+[![yao-baijian](https://img.shields.io/badge/yao--baijian-github-blue?logo=github)](https://github.com/yao-baijian)
 
 #### Email
-eebyao[at]ust.hk
+byao[at]connect.ust.hk
 
 #### Education
-Master, 2022.09 - 2023.06, Integrated Circuit Design, Hong Kong University of Science and Technology
+**Ph.D.**, 2021 - 2025, Electronic and Computer Engineering, Hong Kong University of Science and Technology
 
-2018.09 - 2022.06, Electronic Information Engineering, Chinese University of Hong Kong
+**Master**, 2022.09 - 2023.06, Integrated Circuit Design, Hong Kong University of Science and Technology
+
+**Bachelor**, 2018.09 - 2022.06, Electronic Information Engineering, Chinese University of Hong Kong
 
 #### Research Interests
-EDA algorithm
+Combinatorial optimization, FPGA acceleration, Ising machines, Electronic Design Automation (EDA)
+
+#### Featured Publication
+- **B. Yao**, D. Ebler, X. Shi, J. Wang, F. Zhang, W. Zhang, and J. Sun, "Precision meets speed through an FPGA-based natively sparse Ising machine for combinatorial optimization," *Nature Communications*, 2026. [[Paper]](https://www.nature.com/articles/s41467-026-75119-0) [[Code]](https://github.com/yao-baijian/fem-fpga-placer) (Open Access)
+
+#### Ongoing Projects
+- [**fem-fpga-placer**](https://github.com/yao-baijian/fem-fpga-placer.git) — FPGA placement using Free Energy Minimization with QUBO formulation (under submission)
+- [**qubo-for-tpu**](https://github.com/yao-baijian/qubo-for-tpu.git) — Unified QUBO framework for TPU full-stack optimization
+- [**uni-comb-accel**](https://github.com/yao-baijian/uni-comb-accel.git) — Universal combinatorial optimization accelerator on AI Engine
