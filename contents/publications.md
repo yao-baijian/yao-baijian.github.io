@@ -2,5 +2,3 @@
 
 - <strong>B. Yao</strong>, et al. "FPGA placement using Free Energy Minimization with QUBO formulation." <strong>Under Submission.</strong> [[Code]](https://github.com/yao-baijian/fem-fpga-placer.git)
 
-- <strong>S. Li</strong>, X. Yang*, K. Fan, A. Cao*, Y. Liu, and C. Wang (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
-
