@@ -1,6 +1,6 @@
 > **🎉 New Paper in *Nature Communications*:** [Precision meets speed through an FPGA-based natively sparse Ising machine for combinatorial optimization](https://www.nature.com/articles/s41467-026-75119-0) (Open Access)
 
-I am a PhD graduate from the [Reconfiguration Computing Systems Lab](https://eeweiz.home.ece.ust.hk/) at the Hong Kong University of Science and Technology (HKUST), where I completed my PhD in 2025. My research focuses on combinatorial optimization, FPGA acceleration, and electronic design automation (EDA).
+I am a PhD from the [Reconfiguration Computing Systems Lab](https://eeweiz.home.ece.ust.hk/) at the Hong Kong University of Science and Technology (HKUST). My research focuses on combinatorial optimization, FPGA acceleration, and electronic design automation (EDA).
 
 #### GitHub
 [![yao-baijian](https://img.shields.io/badge/yao--baijian-github-blue?logo=github)](https://github.com/yao-baijian)
@@ -9,7 +9,7 @@ I am a PhD graduate from the [Reconfiguration Computing Systems Lab](https://eew
 byao[at]connect.ust.hk
 
 #### Education
-**Ph.D.**, 2021 - 2025, Electronic and Computer Engineering, Hong Kong University of Science and Technology
+**Ph.D.**, 2025 - Now, Electronic and Computer Engineering, Hong Kong University of Science and Technology
 
 **Master**, 2022.09 - 2023.06, Integrated Circuit Design, Hong Kong University of Science and Technology
 
